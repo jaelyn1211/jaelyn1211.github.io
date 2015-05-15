@@ -26,9 +26,11 @@ a:hover {
 
 html,
 body {
-  height: 100%;
-  background-color: #333;
-  background-image: url("http://fc02.deviantart.net/fs70/i/2012/010/f/d/christmas_in_the_park___downtown_san_jose__ca_by_stevendavisphoto-d4lzfq6.jpg");
+  background: url(http://fc02.deviantart.net/fs70/i/2012/010/f/d/christmas_in_the_park___downtown_san_jose__ca_by_stevendavisphoto-d4lzfq6.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 body {
   color: #fff;
