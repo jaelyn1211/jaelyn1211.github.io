@@ -26,7 +26,7 @@ a:hover {
 
 html,
 body {
-  background: url(http://fc02.deviantart.net/fs70/i/2012/010/f/d/christmas_in_the_park___downtown_san_jose__ca_by_stevendavisphoto-d4lzfq6.jpg) no-repeat center center fixed; 
+  background: url(http://www.backgroundsy.com/file/large/colorful-background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -34,7 +34,7 @@ body {
   height: 100%;
 }
 body {
-  color: #99CCFF;
+  color: #000000;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -88,7 +88,7 @@ body {
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
-  background-color: #99CCFF;
+  background-color: #ffffff;
   border-bottom-color: #a9a9a9;
   border-bottom-color: rgba(255,255,255,.25);
 }
